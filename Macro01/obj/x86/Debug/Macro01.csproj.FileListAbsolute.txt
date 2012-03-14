@@ -1,0 +1,12 @@
+c:\users\sraher\documents\visual studio 2010\Projects\Macro01\Macro01\bin\Debug\Macro01.exe
+c:\users\sraher\documents\visual studio 2010\Projects\Macro01\Macro01\bin\Debug\Macro01.pdb
+c:\users\sraher\documents\visual studio 2010\Projects\Macro01\Macro01\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sraher\documents\visual studio 2010\Projects\Macro01\Macro01\obj\x86\Debug\Interop.iMacros.dll
+c:\users\sraher\documents\visual studio 2010\Projects\Macro01\Macro01\obj\x86\Debug\Macro01.csproj.ResolveComReference.cache
+c:\users\sraher\documents\visual studio 2010\Projects\Macro01\Macro01\obj\x86\Debug\Macro01.Form1.resources
+c:\users\sraher\documents\visual studio 2010\Projects\Macro01\Macro01\obj\x86\Debug\Macro01.Properties.Resources.resources
+c:\users\sraher\documents\visual studio 2010\Projects\Macro01\Macro01\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\sraher\documents\visual studio 2010\Projects\Macro01\Macro01\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\sraher\documents\visual studio 2010\Projects\Macro01\Macro01\obj\x86\Debug\Macro01.exe
+c:\users\sraher\documents\visual studio 2010\Projects\Macro01\Macro01\obj\x86\Debug\Macro01.pdb
+c:\users\sraher\documents\visual studio 2010\Projects\Macro01\Macro01\bin\Debug\Interop.iMacros.dll
